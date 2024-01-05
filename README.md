@@ -1,3 +1,2 @@
 
-Analyzing Adult Income Data: 
-https://mahshid-tofigh.github.io/Adult_Income_data/
+<h1>project</h1>
