@@ -31,6 +31,11 @@ I picked data from the kaggel database to compare the income adults' income leve
 https://github.com/Mahshid-Tofigh/Adult_Income_data/blob/main/Adult%20income.mov
 
 
+## Source Data
+Original datasets for this project were taken from Kaggle: [Adult Income_Dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
+
+
+
 
 
 
