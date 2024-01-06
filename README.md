@@ -28,3 +28,9 @@ The inequality impacts economic, social mobility and education, crime, health, t
 I picked data from the kaggel database to compare the income adults' income level according to their age, gender, and races.
 
 
+https://github.com/Mahshid-Tofigh/Adult_Income_data/blob/main/Adult%20income.mov
+
+
+
+
+
