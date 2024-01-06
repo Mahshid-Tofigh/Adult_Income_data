@@ -6,9 +6,8 @@
 2. [Why this topic?](#why-this-topic?)
 2. [Source Data](#Source-Data)
 4. [Sections](#Sections)
-    - [Meteorological Analysis](#meteorological-analysis)
-    - [Yield Prediction](#yield-prediction)
-    - [Crop Recommendation](#crop-recommendation)
+    - [Income Analysis](#racial-income-analysis)
+    - [Income Prediction](#gender-income-analysis)
 5. [Tools and Technologies](#tools-and-technologies)
 6. [Dashboard](#Dashboard)
    
