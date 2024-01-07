@@ -6,7 +6,7 @@
 2. [Why this topic?](#why-this-topic?)
 2. [Source Data](#Source-Data)
 4. [Sections](#Sections)
-    - [Income Analysis](#racial-income-analysis)
+    - [Work-class Income Analysis](#racial-income-analysis)
     - [Income Prediction](#gender-income-analysis)
 5. [Tools and Technologies](#tools-and-technologies)
 6. [Dashboard](#Dashboard)
@@ -32,6 +32,9 @@ https://github.com/Mahshid-Tofigh/Adult_Income_data/blob/main/Adult%20income.mov
 
 ## Source Data
 Original datasets for this project were taken from Kaggle: [Adult Income_Dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
+# Sections
+## Work-class Income Analysis
+- **Objectives**: To give the users visual representation of different income based on different work-class.
 <p align="center">
   <img src="https://github.com/Mahshid-Tofigh/Adult_Income_data/blob/main/Work-class.png"
   width="600" 
