@@ -51,9 +51,9 @@ Original datasets for this project were taken from Kaggle: [Adult Income_Dataset
 </p>
 
 ## Gender Income Analysis
-- **Objectives**: To give users visual representation of the income based on genders, using bar chart.
+- **Objectives**: To give users visual representation of the income based on age, using bar chart.
 <p align="center">
-  <img src="https://github.com/Mahshid-Tofigh/Adult_Income_data/blob/main/Race-income.png"
+  <img src="https://github.com/Mahshid-Tofigh/Adult_Income_data/blob/main/Age-income.png"
   width="600" 
   height=auto class="rounded">
 </p>
