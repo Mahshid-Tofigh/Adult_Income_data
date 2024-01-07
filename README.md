@@ -32,6 +32,11 @@ https://github.com/Mahshid-Tofigh/Adult_Income_data/blob/main/Adult%20income.mov
 
 ## Source Data
 Original datasets for this project were taken from Kaggle: [Adult Income_Dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
+<p align="center">
+  <img src="https://github.com/Mahshid-Tofigh/Adult_Income_data/blob/main/Work-class.png"
+  width="600" 
+  height=auto class="rounded">
+</p>
 
 
 
