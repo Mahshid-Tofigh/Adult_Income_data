@@ -57,3 +57,5 @@ Original datasets for this project were taken from Kaggle: [Adult Income_Dataset
   width="600" 
   height=auto class="rounded">
 </p>
+
+- **How it works**: The app also can be used in any computer for any user. So, the user can download data in a csv file from the local computer and get basic analysis about the data. like getting some statistical information.
