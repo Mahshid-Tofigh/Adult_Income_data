@@ -59,3 +59,22 @@ Original datasets for this project were taken from Kaggle: [Adult Income_Dataset
 </p>
 
 - **How it works**: The app also can be used in any computer for any user. So, the user can download data in a csv file from the local computer and get basic analysis about the data. like getting some statistical information.
+
+
+# Tools & Technologies
+- **Database**
+    - Local data base
+- **Data Analysis**
+    - Jupyter Notebook
+    - Pandas
+    - Numpy
+    - Matplotlib
+    - Plotly
+    - Seaborn
+    - Streamlit
+    - Spider
+- **Dashboard**
+    - Javascript
+    - HTML
+    - CSS
+    - Boostrap5
