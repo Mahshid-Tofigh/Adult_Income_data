@@ -61,6 +61,8 @@ Original datasets for this project were taken from Kaggle: [Adult Income_Dataset
 - **How it works**: The app also can be used in any computer for any user. So, the user can download data in a csv file from the local computer and get basic analysis about the data. like getting some statistical information.
 
 
+https://github.com/Mahshid-Tofigh/Adult_Income_data/blob/main/Adult%20Income.mov
+
 # Tools & Technologies
 - **Database**
     - Local data base
