@@ -7,7 +7,7 @@
 2. [Source Data](#Source-Data)
 4. [Sections](#Sections)
     - [Work-class Income Analysis](#racial-income-analysis)
-    - [Income Prediction](#gender-income-analysis)
+    - [Gender Income Analysis](#gender-income-analysis)
 5. [Tools and Technologies](#tools-and-technologies)
 6. [Dashboard](#Dashboard)
    
@@ -41,6 +41,13 @@ Original datasets for this project were taken from Kaggle: [Adult Income_Dataset
   height=auto class="rounded">
 </p>
 
+## Race-based Income Analysis
+- **Objectives**: To give users visual representation of the income based on races, with a pie chart.
+<p align="center">
+  <img src="https://github.com/Mahshid-Tofigh/Adult_Income_data/blob/main/Work-class.png"
+  width="600" 
+  height=auto class="rounded">
+</p>
 
 
 
