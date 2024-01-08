@@ -1,4 +1,4 @@
-https://mahshid-tofigh.github.io/Adult_Income_data/
+https://github.com/Mahshid-Tofigh/Adult_Income_data
 # Adult income Analysis
 ## Project done by
 - **[Mahshid Tofigh](https://github.com/Mahshid-Tofigh)**
