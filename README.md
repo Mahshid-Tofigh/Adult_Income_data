@@ -64,7 +64,6 @@ Original datasets for this project were taken from Kaggle: [Adult Income_Dataset
         <source src="https://github.com/Mahshid-Tofigh/Adult_Income_data/blob/main/Adult%20income.m4v" type="video/mp4" />
 </video>
     
-https://github.com/Mahshid-Tofigh/Adult_Income_data/blob/main/Adult%20income.m4v
 
 
 # Tools & Technologies
