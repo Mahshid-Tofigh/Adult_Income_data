@@ -28,9 +28,6 @@ The inequality impacts economic, social mobility and education, crime, health, t
 I picked data from the kaggel database to compare the income adults' income level according to their age, gender, and races.
 
 
-https://github.com/Mahshid-Tofigh/Adult_Income_data/blob/main/Adult%20income.mov
-
-
 ## Source Data
 Original datasets for this project were taken from Kaggle: [Adult Income_Dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
 # Sections
@@ -60,11 +57,7 @@ Original datasets for this project were taken from Kaggle: [Adult Income_Dataset
 
 - **How it works**: The app also can be used in any computer for any user. So, the user can download data in a csv file from the local computer and get basic analysis about the data. like getting some statistical information.
 
-<video width="500px" height="500px" controls="controls">
-        <source src="https://github.com/Mahshid-Tofigh/Adult_Income_data/blob/main/Adult%20income.m4v" type="video/mp4" />
-</video>
-    
-
+https://github.com/Mahshid-Tofigh/Adult_Income_data/blob/main/Adult%20income.m4v
 
 # Tools & Technologies
 - **Database**
