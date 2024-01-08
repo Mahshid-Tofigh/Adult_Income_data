@@ -8,7 +8,7 @@
 4. [Sections](#Sections)
     - [Work-class Income Analysis](#Work-class-income-analysis)
     - [Race based Income Analysis](#racial-income-analysis)
-    - [Gender Income Analysis](#gender-income-analysis)
+    - [Age Income Analysis](#gender-income-analysis)
 5. [Tools and Technologies](#tools-and-technologies)
 6. [Dashboard](#Dashboard)
    
@@ -47,7 +47,7 @@ Original datasets for this project were taken from Kaggle: [Adult Income_Dataset
   height=auto class="rounded">
 </p>
 
-## Gender Income Analysis
+## Age Income Analysis
 - **Objectives**: To give users visual representation of the income based on age, using bar chart.
 <p align="center">
   <img src="https://github.com/Mahshid-Tofigh/Adult_Income_data/blob/main/Age-income.png"
